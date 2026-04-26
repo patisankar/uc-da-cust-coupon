@@ -58,9 +58,9 @@ Coffee House is the most common coupon type. Key predictors of acceptance:
 ## Project Structure
 
 ```
-assignment5_1_starter/
-├── prompt.ipynb         # Main analysis notebook
-├── README.md            # This file
+uc-da-cust-coupon/
+├── cust_coupn_acceptance.ipynb         # Main analysis notebook
+├── README.md            
 └── data/
     └── coupons.csv      # Raw dataset
 ```
