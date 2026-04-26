@@ -5,7 +5,7 @@
 This project explores a dataset collected via an Amazon Mechanical Turk survey that describes different driving scenarios and asks whether the driver would accept a coupon delivered to their phone. The goal is to use data analysis and visualizations to understand what distinguishes drivers who accept coupons from those who do not.
 
 **Dataset source:** UCI Machine Learning Repository
-**Notebook:** [prompt.ipynb](prompt.ipynb)
+**Notebook:** [cust_coupn_acceptance.ipynb](cust_coupn_acceptance.ipynb)
 
 ---
 
